@@ -1,0 +1,14 @@
+C:\Users\louis\Desktop\rogue1\bin\Debug\net10.0\rogue1.exe
+C:\Users\louis\Desktop\rogue1\bin\Debug\net10.0\rogue1.deps.json
+C:\Users\louis\Desktop\rogue1\bin\Debug\net10.0\rogue1.runtimeconfig.json
+C:\Users\louis\Desktop\rogue1\bin\Debug\net10.0\rogue1.dll
+C:\Users\louis\Desktop\rogue1\bin\Debug\net10.0\rogue1.pdb
+C:\Users\louis\Desktop\rogue1\obj\Debug\net10.0\rogue1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louis\Desktop\rogue1\obj\Debug\net10.0\rogue1.AssemblyInfoInputs.cache
+C:\Users\louis\Desktop\rogue1\obj\Debug\net10.0\rogue1.AssemblyInfo.cs
+C:\Users\louis\Desktop\rogue1\obj\Debug\net10.0\rogue1.csproj.CoreCompileInputs.cache
+C:\Users\louis\Desktop\rogue1\obj\Debug\net10.0\rogue1.dll
+C:\Users\louis\Desktop\rogue1\obj\Debug\net10.0\refint\rogue1.dll
+C:\Users\louis\Desktop\rogue1\obj\Debug\net10.0\rogue1.pdb
+C:\Users\louis\Desktop\rogue1\obj\Debug\net10.0\rogue1.genruntimeconfig.cache
+C:\Users\louis\Desktop\rogue1\obj\Debug\net10.0\ref\rogue1.dll
