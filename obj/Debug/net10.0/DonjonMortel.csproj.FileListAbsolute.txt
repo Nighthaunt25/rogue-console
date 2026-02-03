@@ -1,0 +1,14 @@
+C:\Users\louis\Desktop\rogue1 - Copie\bin\Debug\net10.0\DonjonMortel.exe
+C:\Users\louis\Desktop\rogue1 - Copie\bin\Debug\net10.0\DonjonMortel.deps.json
+C:\Users\louis\Desktop\rogue1 - Copie\bin\Debug\net10.0\DonjonMortel.runtimeconfig.json
+C:\Users\louis\Desktop\rogue1 - Copie\bin\Debug\net10.0\DonjonMortel.dll
+C:\Users\louis\Desktop\rogue1 - Copie\bin\Debug\net10.0\DonjonMortel.pdb
+C:\Users\louis\Desktop\rogue1 - Copie\obj\Debug\net10.0\DonjonMortel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louis\Desktop\rogue1 - Copie\obj\Debug\net10.0\DonjonMortel.AssemblyInfoInputs.cache
+C:\Users\louis\Desktop\rogue1 - Copie\obj\Debug\net10.0\DonjonMortel.AssemblyInfo.cs
+C:\Users\louis\Desktop\rogue1 - Copie\obj\Debug\net10.0\DonjonMortel.csproj.CoreCompileInputs.cache
+C:\Users\louis\Desktop\rogue1 - Copie\obj\Debug\net10.0\DonjonMortel.dll
+C:\Users\louis\Desktop\rogue1 - Copie\obj\Debug\net10.0\refint\DonjonMortel.dll
+C:\Users\louis\Desktop\rogue1 - Copie\obj\Debug\net10.0\DonjonMortel.pdb
+C:\Users\louis\Desktop\rogue1 - Copie\obj\Debug\net10.0\DonjonMortel.genruntimeconfig.cache
+C:\Users\louis\Desktop\rogue1 - Copie\obj\Debug\net10.0\ref\DonjonMortel.dll
